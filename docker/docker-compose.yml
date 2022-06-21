@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+    hugo_cli:
+        image: klakegg/hugo:0.93.2-alpine
+        volumes:
+            - C:\Users\ghign\projects\ghign0\ghign0.eth\site:/src
