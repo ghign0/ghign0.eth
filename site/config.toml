@@ -1,0 +1,17 @@
+# REMOVE THIS
+#themesDir = "../../"
+
+# DO NOT REMOVE THIS
+theme = "just-me"
+# Just me! only renders the homepage, no section or other kinds
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+# Override these settings with your own
+baseURL = "https://ghign0.eth"
+languageCode = "en-us"
+title = "Ghign0 web3 home"
+
+[params]
+  author = "ghign0"
+  author_link = "#"
+  ga_tracking_id = ""
